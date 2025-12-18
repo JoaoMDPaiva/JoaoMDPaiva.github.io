@@ -27,5 +27,5 @@ Sinta‑se à vontade para enviar feedbacks, sugestões ou oportunidades de cola
 ---
 
 <p align="center">
-  <img src="img/foto_quadrada_210x210.jpg" alt="Foto de João M. D. Paiva" width="180" style="border-radius: 50%;">
+  <img src="foto_quadrada_120x120.jpg" alt="Foto de João M. D. Paiva" width="180" style="border-radius: 50%;">
 </p>
