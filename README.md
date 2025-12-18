@@ -25,6 +25,8 @@ Tive a oportunidade de trabalhar com profissionais que confiaram no meu trabalho
 
 ---
 
+---
+
 ## 🗣️ Recomendações
 
 Tive a oportunidade de trabalhar com profissionais que confiaram no meu trabalho e registraram recomendações no LinkedIn. Alguns exemplos:
