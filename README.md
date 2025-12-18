@@ -17,6 +17,22 @@ No site você encontrará:
 
 Todos os projetos incluem descrição do problema, tecnologias usadas e links diretos para os repositórios e/ou demos.
 
+🗣️ Recomendações
+
+Tive a oportunidade de trabalhar com profissionais que confiaram no meu trabalho e registraram recomendações no LinkedIn. Segue alguns exemplos:
+
+**Everton Marcelino Jr. – CTO, Stift**  
+![Recomendação de Everton](Recomendacao-Everton.jpg)
+
+**Davi Rost – CEO, Stift**  
+![Recomendação de Davi](Recomendacao-Davio.jpg)
+
+**Gustavo Sabio – DPO / Colega na QI Tech**  
+![Recomendação de Gustavo](Recomendacao-Gustavo-Sabio.jpg)
+
+**Tamiris Garbelotti – Colega na QI Tech**  
+![Recomendação de Tamiris](Recomendacao-Tamiris.jpg)
+
 ---
 
 ## 📬 Contato
