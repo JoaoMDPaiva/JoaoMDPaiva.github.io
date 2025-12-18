@@ -23,25 +23,22 @@ Tive a oportunidade de trabalhar com profissionais que confiaram no meu trabalho
 
 ---
 
----
-
----
-
 ## 🗣️ Recomendações
 
 Tive a oportunidade de trabalhar com profissionais que confiaram no meu trabalho e registraram recomendações no LinkedIn. Alguns exemplos:
 
 **Everton Marcelino Jr. – CTO, Stift**  
-![Recomendação de Everton](Recomendacao-Everton.png)
+![Recomendação de Everton](Recomendação-Everton.png)
 
 **Davi Rost – CEO, Stift**  
-![Recomendação de Davi](Recomendacao-Davi.png)
+![Recomendação de Davi](Recomendação-Davi.png)
 
 **Gustavo Sabio – DPO / Colega na QI Tech**  
-![Recomendação de Gustavo](Recomendacao-Gustavo-Sabio.png)
+![Recomendação de Gustavo](Recomendação-Gustavo-Sabio.png)
 
 **Tamiris Garbelotti – Colega na QI Tech**  
-![Recomendação de Tamiris](Recomendacao-Tamiris.png)
+![Recomendação de Tamiris](Recomendação-Tamiris.png)
+
 
 ---
 
