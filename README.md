@@ -24,4 +24,8 @@ E-mail: jvmp.2005@gmail.com
 
 Sinta‑se à vontade para enviar feedbacks, sugestões ou oportunidades de colaboração.
 
+---
 
+<p align="center">
+  <img src="img/foto_quadrada_210x210.jpg" alt="Foto de João M. D. Paiva" width="180" style="border-radius: 50%;">
+</p>
