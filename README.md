@@ -1,6 +1,8 @@
 Portfólio – João Paiva
-Este repositório contém o meu portfólio pessoal, publicado com GitHub Pages, onde reúno os principais projetos que desenvolvi em Inteligência Artificial, automação e soluções orientadas a dados.
-Meu foco é construir soluções para problemas reais, gerar em produtos/serviços e protótipos que gerem valor
+
+
+💼 Este repositório contém o meu portfólio pessoal, publicado com GitHub Pages, onde reúno os principais projetos que desenvolvi em Inteligência Artificial, automação e soluções orientadas a dados.
+Meu foco é construir soluções para problemas reais, gerar em produtos/serviços e protótipos que gerem valor 
 
 🔗 Acesse o portfólio em: https://joaomdpaiva.github.io
 
@@ -15,9 +17,11 @@ Smart Irrigation – Sistema experimental de automação de irrigação, integra
 
 Todos os projetos incluem descrição do problema, tecnologias usadas e links diretos para os repositórios e/ou demos.
 
-Contato
+📬 Contato
 LinkedIn: www.linkedin.com/in/joãovmpaiva
 
 E-mail: jvmp.2005@gmail.com
 
 Sinta‑se à vontade para enviar feedbacks, sugestões ou oportunidades de colaboração.
+
+
